@@ -8,7 +8,9 @@ I’m a passionate **Information Systems undergraduate student** from **Telkom U
 ## 🛠 Skills and Technologies  
 
 ### **Programming Languages**  
-- **Proficient in:** Python, Java, JavaScript, LUA, HTML, CSS, PHP, C++  
+- **Intermediate in:** LUA, Python
+- **Familiar with:** JavaScript, HTML, CSS, PHP
+- **Basic knowledge:** C++
 - **Database:** MySQL  
 
 ### **Frameworks & Tools**  
