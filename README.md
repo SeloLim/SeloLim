@@ -1,4 +1,3 @@
-"""
 # 👋 Hi, I’m Alexandre Wijaya Lim.  
 
 **💻 About Me:**  
@@ -49,4 +48,3 @@ I’m a passionate **Information Systems undergraduate student** from **Telkom U
 📧 Email: [Your Email Address]  
 💼 LinkedIn: [Your LinkedIn Profile]  
 🌐 Portfolio/GitHub: [Your GitHub Profile Link]
-"""
