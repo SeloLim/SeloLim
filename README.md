@@ -19,9 +19,6 @@ I’m a passionate **Information Systems undergraduate student** from **Telkom U
 - **System Administration:** Linux (Rocky Linux, Debian), VMware, VirtualBox, Putty  
 - **Cloud Platforms:** AWS, GCP, Digital Ocean, Linode (Akamai), Vultr, Azure, Alibaba Cloud  
 
-### **Notable Tools**  
-- Cisco Packet Tracer, NetBeans, VSCode  
-
 ---
 
 ## 🌟 Academic Projects and Achievements  
@@ -29,13 +26,6 @@ I’m a passionate **Information Systems undergraduate student** from **Telkom U
 ### **Web Development Projects**  
 - Built a **role-based organizational website** using **Laravel** with middleware roles, authentication, and database management (MySQL).  
 - Experimented with **Next.js** to explore modern web development frameworks.  
-
-### **Data Mining Work**  
-- Conducted clustering and regression analyses using methods like **K-Means**, **Linear Regression**, **Decision Tree**, and **XGBoost** in **Jupyter Notebook**.  
-
-### **Operating Systems**  
-- Hands-on experience with **Rocky Linux** and **Debian** during academic projects, including handling **EICAR AV Test** virus simulations and troubleshooting systems.  
-- Configured and coded within Linux environments using **VMWare**, **VirtualBox**, and **Putty**.
 
 ---
 
