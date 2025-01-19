@@ -43,8 +43,3 @@ I’m a passionate **Information Systems undergraduate student** from **Telkom U
 - Enhance expertise in **machine learning** and **data analysis techniques**.
 
 ---
-
-## 🤝 Let’s Connect!  
-📧 Email: [Your Email Address]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🌐 Portfolio/GitHub: [Your GitHub Profile Link]
