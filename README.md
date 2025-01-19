@@ -41,5 +41,5 @@ I’m a passionate **Information Systems undergraduate student** from **Telkom U
 
 ## 📚 Current Learning Goals  
 - Master advanced **web development frameworks** (e.g., React.js, Next.js).  
-- Deepen knowledge in **cloud computing** and containerization tools like Docker and Kubernetes.  
-- Enhance expertise in **machine learning** and **data analysis techniques**.
+- Deepen knowledge in **cloud computing** and containerization tools like Docker and Kubernetes.
+- Integrate **machine learning** and **data analysis** capabilities into web-based solutions.
