@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Alexandre Wijaya Lim.  
 
 **💻 About Me:**  
-I’m a passionate **Information Systems undergraduate student** from **Telkom University Jakarta Campus**, currently in my 5th semester. I enjoy exploring and working with **programming, web development, and data analysis**. My academic and personal projects have helped me develop strong skills in coding, debugging, and cloud-based technologies. I’m also aspiring to become a **teaching assistant** to help others learn and grow in fields like **Operating Systems, Data Mining, and Web Development**.
+I’m a passionate **Information Systems undergraduate student** from **Telkom University Jakarta Campus**, currently in my 5th semester. I enjoy exploring and working with **programming, web development, and data analysis**. My academic and personal projects have helped me develop strong skills in coding, debugging, and cloud-based technologies.
 
 ---
 
